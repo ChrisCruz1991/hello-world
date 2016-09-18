@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey, everybody!
+
+My name is Christopher Cruz.  I'm a Computer Science student in Upr Bayamon, Puerto Rico.  My dream is to someday become a full-fledge Software Developer!
